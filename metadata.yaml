@@ -1,0 +1,44 @@
+_repo: Clarence_2635
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Harte, Bret
+    alias: Harte, Francis Bret
+    birthdate: 1836
+    deathdate: 1902
+    gutenberg_agent_id: '593'
+    url: http://www.gutenberg.org/2009/agents/593
+    wikipedia: http://en.wikipedia.org/wiki/Bret_Harte
+description: He had been married scarcely a year, yet even in the illusions of the
+  honeymoon the woman, older than himself, and the widow of his old patron, had half
+  unconsciously reasserted herself, and slipped back into the domination of her old
+  position. As Clarence Brant, President of the Robles Land Company, and husband of
+  the rich widow of John Peyton, of the Robles Ranche, mingled with the outgoing audience
+  of the Cosmopolitan Theatre, at San Francisco, he elicited the usual smiling nods
+  and recognition due to his good looks and good fortune. But as he hurriedly slipped
+  through the still lingering winter's rain into the smart coupe that was awaiting
+  him, and gave the order "Home," the word struck him with a peculiarly ironical significance.
+  His home was a handsome one, and lacked nothing in appointment and comfort, but
+  he had gone to the theatre to evade its hollow loneliness. Nor was it because his
+  wife was not there, for he had a miserable consciousness that her temporary absence
+  had nothing to do with his homelessness. The distraction of the theatre over that
+  dull, vague, but aching sense of loneliness which was daily growing upon him returned
+  with greater vigor.
+gutenberg_issued: '2006-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2635'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American fiction -- 19th century'
+- !lcsh 'Marriage -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcc 'PS'
+- !lcsh 'California -- Fiction'
+- !lcsh 'Mines and mineral resources -- Fiction'
+- GITenberg
+title: Clarence
+url: http://www.gutenberg.org/ebooks/2635
